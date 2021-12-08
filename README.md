@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Create React App
+The movies-app (Movie Search) is simple frontend web application build with reactjs that allows user to search the movie title and view the details of the movie. The movies detail and poster were retrieved from http://www.omdbapi.com/. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by the users. Following are resources used to build the application:
+    1. Nodejs: https://nodejs.org/
+    2. Visual Studio Code: https://code.visualstudio.com/
+    3. BootStrap: https://getbootstrap.com/
+    4. List of public APIs: https://github.com/public-apis/public-apis
+    5. Free High-resolution photos: https://unsplash.com/
+
+To create a react app, type npx create-react-app name_of_project in your cmd.
+
+Screenshots of the movie search application:
+<img width="952" alt="MainPage" src="https://user-images.githubusercontent.com/36413759/145179307-c2fe960c-d14d-4bad-a42b-9cc56955efa6.PNG">
+<img width="335" alt="AfterSearch" src="https://user-images.githubusercontent.com/36413759/145179334-fc388fc7-b7ce-467a-97f0-695159ed06fd.PNG">
+<img width="507" alt="DetailPage" src="https://user-images.githubusercontent.com/36413759/145179357-f47c7068-2bef-4419-995c-6bb1fa1bb940.PNG">
+
 
 ## Available Scripts
 
@@ -37,32 +51,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### `npm install react-router-dom`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Installing React Route For different Page of the application.
