@@ -6,7 +6,7 @@ The movies-app (Movie Search) is simple frontend web application build with reac
 ##### 4. List of public APIs: https://github.com/public-apis/public-apis
 ##### 5. Free High-resolution photos: https://unsplash.com/
 
-To create a react app, type npx create-react-app name_of_project in your cmd.
+To create a react app, type npx create-react-app `name_of_project` in your cmd.
 
 Screenshots of the movie search application:
 <img width="952" alt="MainPage" src="https://user-images.githubusercontent.com/36413759/145179307-c2fe960c-d14d-4bad-a42b-9cc56955efa6.PNG">
