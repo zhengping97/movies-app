@@ -10,8 +10,8 @@ To create a react app, type npx create-react-app name_of_project in your cmd.
 
 Screenshots of the movie search application:
 <img width="952" alt="MainPage" src="https://user-images.githubusercontent.com/36413759/145179307-c2fe960c-d14d-4bad-a42b-9cc56955efa6.PNG">
-<img width="335" alt="AfterSearch" src="https://user-images.githubusercontent.com/36413759/145179334-fc388fc7-b7ce-467a-97f0-695159ed06fd.PNG">
-<img width="507" alt="DetailPage" src="https://user-images.githubusercontent.com/36413759/145179357-f47c7068-2bef-4419-995c-6bb1fa1bb940.PNG">
+<img width="952" alt="AfterSearch" src="https://user-images.githubusercontent.com/36413759/145179334-fc388fc7-b7ce-467a-97f0-695159ed06fd.PNG">
+<img width="952" alt="DetailPage" src="https://user-images.githubusercontent.com/36413759/145179357-f47c7068-2bef-4419-995c-6bb1fa1bb940.PNG">
 
 
 ## Available Scripts
