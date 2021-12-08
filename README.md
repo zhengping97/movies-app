@@ -1,10 +1,10 @@
 # Create React App
 The movies-app (Movie Search) is simple frontend web application build with reactjs that allows user to search the movie title and view the details of the movie. The movies detail and poster were retrieved from http://www.omdbapi.com/. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by the users. Following are resources used to build the application:
-    1. Nodejs: https://nodejs.org/
-    2. Visual Studio Code: https://code.visualstudio.com/
-    3. BootStrap: https://getbootstrap.com/
-    4. List of public APIs: https://github.com/public-apis/public-apis
-    5. Free High-resolution photos: https://unsplash.com/
+    #####1. Nodejs: https://nodejs.org/
+    #####2. Visual Studio Code: https://code.visualstudio.com/
+    #####3. BootStrap: https://getbootstrap.com/
+    #####4. List of public APIs: https://github.com/public-apis/public-apis
+    #####5. Free High-resolution photos: https://unsplash.com/
 
 To create a react app, type npx create-react-app name_of_project in your cmd.
 
