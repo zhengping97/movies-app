@@ -1,5 +1,5 @@
 # Create React App
-The movies-app (Movie Search) is simple frontend web application build with reactjs that allows user to search the movie title and view the details of the movie. The movies detail and poster were retrieved from http://www.omdbapi.com/. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by the users. Following are resources used to build the application:
+The movies-app (Movie Search) is simple frontend web application build with reactjs that allows user to search the movie title and view the details of the movie. The movie details and poster were retrieved from http://www.omdbapi.com/. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by the users. Following are resources used to build the application:
 ##### 1. Nodejs: https://nodejs.org/
 ##### 2. Visual Studio Code: https://code.visualstudio.com/
 ##### 3. BootStrap: https://getbootstrap.com/
